@@ -3,7 +3,7 @@
 
 A brief description of what this project does and who it's for
 
-# Cosmo Battle
+# Cosmo Runner
 
 An arcade space survival game built with C++ and SFML where you pilot a spaceship, dodge incoming threats, manage fuel and try to beat your high score.
 
