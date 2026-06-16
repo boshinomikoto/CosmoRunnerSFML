@@ -130,7 +130,7 @@ The project is structured around individual classes with dedicated manager class
 `Fuel` and `AddictiveLive` both inherit from a common `PickupItem` base class since they share identical behavior (spawn, move, collision) and differ only in texture and spawn parameters.
 
 ---
-[![Coso runner gameplay]([https://youtube.com](https://www.youtube.com/shorts/o-TQfVPCtJY))]([https://youtube.com](https://www.youtube.com/shorts/o-TQfVPCtJY))
+[watch video](https://www.youtube.com/shorts/o-TQfVPCtJY)
 ---
 
 ---
