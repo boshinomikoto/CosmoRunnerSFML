@@ -131,7 +131,6 @@ The project is structured around individual classes with dedicated manager class
 
 ---
 [watch video](https://www.youtube.com/shorts/o-TQfVPCtJY)
----
 
 ---
 
